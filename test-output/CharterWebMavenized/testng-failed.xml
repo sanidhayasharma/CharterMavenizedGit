@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CharterWebMavenized]">
+  <test name="CharterMavenized(failed)">
+    <classes>
+      <class name="com.test.charter.testcases.LandingPageTestCase">
+        <methods>
+          <include name="testLandingPage"/>
+          <include name="closeBrowser"/>
+          <include name="initializeBaseTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.test.charter.testcases.LandingPageTestCase -->
+    </classes>
+  </test> <!-- CharterMavenized(failed) -->
+</suite> <!-- Failed suite [CharterWebMavenized] -->

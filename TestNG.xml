@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CharterWebMavenized">
+<test name="CharterMavenized">
+
+<classes>
+<class name="com.test.charter.testcases.LandingPageTestCase"/>
+<!--<class name="com.test.charter.testcases.ChooseAptPageTestCase"/>-->
+<!--<class name="com.test.charter.testcases.NewOrderPageTestCase"/>-->
+<!--<class name="com.test.charter.testcases.OfferPageTestCase"/>-->
+<!--<class name="com.test.charter.testcases.CustomizeOfferPageTestCase"/>-->
+<!--<class name="com.test.charter.testcases.CustomerInformationPageTestCase"/>-->
+
+<!--  <class name="com.test.charter.testcases.Rough"/>-->
+</classes>
+
+</test>
+</suite>
