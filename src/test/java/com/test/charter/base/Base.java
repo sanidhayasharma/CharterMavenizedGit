@@ -41,6 +41,7 @@ public void setDriver(int browser , java.lang.String baseURL) throws IOException
 	case 1:
 		driver=initFirefoxDriver(baseURL);
 		System.out.println("Firefox is launching");
+		System.out.println("GIT Launched.....");
 		break;		
 		
 	case 2:
